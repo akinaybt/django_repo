@@ -1,0 +1,16 @@
+.idea/
+venv/
+db.sqlite3
+main/__pycache__/
+posts/__pycache__/
+posts/migrations/0001_initial.py
+posts/migrations/__pycache__/
+posts/migrations/
+.env
+accounts/__pycache__/__init__.cpython-38.pyc
+accounts/__pycache__/context_processors.cpython-38.pyc
+accounts/__pycache__/views.cpython-38.pyc
+../.idea/
+./
+../.idea/
+../.idea/
